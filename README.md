@@ -3,7 +3,11 @@
 一个关于 CPSL 的项目说明文档模板。请根据你的实际项目进行替换与补充。
 
 ## 项目简介
+<<<<<<< HEAD
 用一到两句话概述项目的目标与价值。例如：CPSL 是一个用于 XXX 的系统，提供 A/B/C 能力，帮助团队高效完成 YYY。
+=======
+[This repository is an official implementation of the paper]
+>>>>>>> 14a5c18 (add README)
 
 ## 主要功能
 - 功能1：例如 任务创建、编辑与删除
