@@ -24,26 +24,11 @@ The environment is as bellow:
 Here is an example:
 
 ```bash
-python - <<'PY'
-import numpy as np
-from asymmetric_noise import (
-    build_uniform_P, multiclass_noisify,
-    noisify_mnist_asymmetric, noisify_cifar10_asymmetric,
-    noisify_cifar100_asymmetric, noisify, noisify_binary_asymmetric
-)
-
-# Multi-class with uniform noise
-K = 10
-y = np.random.randint(0, K, size=1000)
-P = build_uniform_P(K, noise=0.4)
-y_noisy = multiclass_noisify(y, P, random_state=42)
-print('Noisy labels (head):', y_noisy[:10])
-
-# Binary asymmetric noise with labels in {-1, +1}
-y_bin = np.random.choice([-1, 1], size=1000)
-y_bin_noisy = noisify(y_bin, p_minus=0.2, p_plus=0.05, random_state=42)
-print('Binary noisy labels (head):', y_bin_noisy[:10])
-PY
+#Cifar10
+#Cifar100
+#Tiny-ImageNet
+#Animal10N
+#Clothing1M
 ```
 
 ### Reference
