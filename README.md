@@ -1,4 +1,4 @@
-## CPSL
+# CPSL
 
 This repository is an official implementation of the paper: [CPSL: A semi-supervised framework with class prototype-based modeling for combating noisy labels](https://www.sciencedirect.com/science/article/abs/pii/S0031320325009793).
 
@@ -12,23 +12,35 @@ The effectiveness of deep learning models is primarily attributed to the develop
 
 ![overview](docs/CPSL.jpg)
 
-### Setups
+# Setups
 
 The environment is as bellow:
 
 - Python
 - Pytorch
 
-### Running CPSL on benchmark datasets
+# Running CPSL on benchmark datasets
 
 Here is an example:
 
 ```bash
+cd train
+
 #Cifar10
+python trian_cifar10.py
+
 #Cifar100
+python trian_cifar100.py
+
 #Tiny-ImageNet
+python trian_tinyImageNet.py
+
 #Animal10N
+python trian_animal10n.py
+
 #Clothing1M
+python trian_clothing1m.py
+
 ```
 
 ### Reference
