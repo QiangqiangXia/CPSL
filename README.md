@@ -1,149 +1,85 @@
-# CPSL
-
-一个关于 CPSL 的项目说明文档模板。请根据你的实际项目进行替换与补充。
-
 ## 项目简介
-<<<<<<< HEAD
-用一到两句话概述项目的目标与价值。例如：CPSL 是一个用于 XXX 的系统，提供 A/B/C 能力，帮助团队高效完成 YYY。
-=======
-[This repository is an official implementation of the paper]
->>>>>>> 14a5c18 (add README)
 
-## 主要功能
-- 功能1：例如 任务创建、编辑与删除
-- 功能2：例如 实时数据同步与云端存储
-- 功能3：例如 自定义标签与优先级
-- 功能4：例如 审计日志与可观测性
+本项目提供用于模拟标签噪声（对称与非对称、多分类与二分类）的实用函数，方便在实验中构造含噪标签或基于给定噪声转移矩阵生成新标签。
 
-## 技术栈
-- 前端：例如 React 或 Vue，TypeScript，CSS 方案
-- 后端：例如 Node.js/Express 或 Python/FastAPI 或 Java/Spring
-- 数据库：例如 PostgreSQL/MySQL/SQLite/Redis
-- 基础设施：例如 Docker/Docker Compose，CI（GitHub Actions）
+文件：`asymmetric_noise.py`
 
-## 目录
-- [项目简介](#项目简介)
-- [主要功能](#主要功能)
-- [技术栈](#技术栈)
-- [环境要求](#环境要求)
-- [快速开始](#快速开始)
-- [配置说明](#配置说明)
-- [目录结构](#目录结构)
-- [开发与调试](#开发与调试)
-- [测试](#测试)
-- [构建与部署](#构建与部署)
-- [常见问题](#常见问题)
-- [贡献指南](#贡献指南)
-- [版本规范](#版本规范)
-- [许可证](#许可证)
+## 功能概览
 
-## 环境要求
-- 操作系统：Windows/macOS/Linux
-- Node.js：v18+（若包含前端或 Node 服务）
-- 包管理器：npm 8+/pnpm/yarn（二选一）
-- 其他：如需数据库/消息队列/云凭证等，请在此列出
+- 非对称二分类标签翻转：`noisify(y, p_minus, p_plus=None, random_state=0)`
+- 基于转移矩阵的多分类翻转：`multiclass_noisify(y, P, random_state=0)`
+- 构造统一（均匀）噪声矩阵：`build_uniform_P(size, noise)`
+- CIFAR-100 相邻类转换矩阵：`build_for_cifar100(size, noise)`
+- 行归一化工具：`row_normalize_P(P, copy=True)`
+- 统一噪声注入（返回实际噪声率与矩阵）：`noisify_with_P(y_train, nb_classes, noise, random_state=None)`
+- 数据集特定的非对称噪声：
+  - MNIST：`noisify_mnist_asymmetric(y_train, noise, random_state=None)`
+  - CIFAR-10：`noisify_cifar10_asymmetric(y_train, noise, random_state=None)`
+  - CIFAR-100（同超类内转换）：`noisify_cifar100_asymmetric(y_train, noise, random_state=None)`
+- 二分类固定非对称噪声：`noisify_binary_asymmetric(y_train, noise, random_state=None)`
 
-## 快速开始
-1. 克隆仓库
+## 环境依赖
+
+- Python 3.7+
+- numpy
+
+安装：
+
 ```bash
-git clone https://github.com/<your-org-or-user>/CPSL.git
-cd CPSL
+pip install numpy
 ```
 
-2. 安装依赖（任选其一）
-```bash
-npm install
-# 或
-yarn
-# 或
-pnpm install
+## 快速上手
+
+```python
+import numpy as np
+from asymmetric_noise import (
+    noisify, build_uniform_P, multiclass_noisify,
+    noisify_with_P, noisify_mnist_asymmetric,
+    noisify_cifar10_asymmetric, noisify_cifar100_asymmetric,
+    noisify_binary_asymmetric
+)
+
+# 1) 二分类非对称噪声示例（标签取值必须为 -1 / +1）
+y_binary = np.random.choice([-1, 1], size=1000)
+y_binary_noisy = noisify(y_binary, p_minus=0.2, p_plus=0.05, random_state=42)
+
+# 2) 多分类统一噪声（均匀翻转）
+num_classes = 10
+y_multi = np.random.randint(0, num_classes, size=1000)
+P = build_uniform_P(num_classes, noise=0.4)  # 每一类以均匀方式被翻转
+y_multi_noisy = multiclass_noisify(y_multi, P=P, random_state=42)
+
+# 3) 自动生成统一噪声并返回实际噪声率与 P
+y_multi_noisy2, P2 = noisify_with_P(y_multi, nb_classes=num_classes, noise=0.3, random_state=42)
+
+# 4) 数据集特定的非对称噪声（示例）
+y_mnist = np.random.randint(0, 10, size=1000)
+y_mnist_noisy, P_mnist = noisify_mnist_asymmetric(y_mnist, noise=0.3, random_state=42)
+
+y_cifar10 = np.random.randint(0, 10, size=1000)
+y_cifar10_noisy, P_cifar10 = noisify_cifar10_asymmetric(y_cifar10, noise=0.2, random_state=42)
+
+y_cifar100 = np.random.randint(0, 100, size=1000)
+y_cifar100_noisy, P_cifar100 = noisify_cifar100_asymmetric(y_cifar100, noise=0.1, random_state=42)
+
+# 5) 二分类固定非对称噪声（1->0 概率为 n，0->1 固定为 0.05）
+y_bin01 = np.random.randint(0, 2, size=1000)
+y_bin01_noisy, P_bin = noisify_binary_asymmetric(y_bin01, noise=0.2, random_state=42)
 ```
 
-3. 本地启动（根据实际脚本调整）
-```bash
-npm run dev
-# 或
-npm run start
-```
+## 重要说明
 
-4. 打开浏览器访问（如有前端）
-```
-http://localhost:3000
-```
+- `noisify` 要求二分类标签为 {-1, +1}；其他多分类相关函数则要求标签为 [0, K-1] 的整数。
+- 传入的转移矩阵 `P` 必须为行随机矩阵（每行元素非负、行和为 1）。
+- 多数函数会打印“实际噪声率”（新旧标签不等的比例），便于核对设定噪声与实际效果。
 
-## 配置说明
-- 将示例环境文件复制为实际配置文件：
-```bash
-cp .env.example .env
-```
-- 常见配置项：
-  - APP_PORT：服务端口
-  - DATABASE_URL：数据库连接串
-  - API_BASE_URL：后端 API 地址
-  - LOG_LEVEL：日志级别（info/debug/error）
+## 许可
 
-## 目录结构
-以下为推荐/参考结构，请按你的项目调整：
-```
-CPSL/
-├─ src/                # 源码（前端或后端）
-│  ├─ api/             # 接口/请求封装
-│  ├─ components/      # 组件（前端）
-│  ├─ pages/           # 页面（前端）
-│  ├─ services/        # 业务服务层（后端）
-│  ├─ models/          # 数据模型/实体
-│  ├─ utils/           # 工具方法
-│  └─ index.(ts|js)    # 入口文件
-├─ test/               # 测试代码
-├─ scripts/            # 脚本（构建/部署/数据迁移等）
-├─ public/             # 静态资源（前端）
-├─ .env.example        # 环境变量示例
-├─ package.json        # 项目元数据与脚本
-└─ README.md           # 项目文档
-```
+若无特别说明，默认为 MIT 许可。可按需修改。
 
-## 开发与调试
-- 代码规范：建议使用 ESLint/Prettier 或对应语言格式化工具
-- 提交规范：建议使用 Conventional Commits（feat/fix/docs/chore 等）
-- 分支策略：建议使用 main/dev/feature-* 工作流
+## 致谢
 
-常用脚本（按需修改）：
-```bash
-npm run dev         # 本地开发
-npm run build       # 生产构建
-npm run lint        # 代码检查
-npm run format      # 一键格式化
-npm run preview     # 本地预览（前端）
-```
+本文件改编与整理自常见的标签噪声注入实现，便于研究复现与教学示例。
 
-## 测试
-```bash
-npm run test        # 运行单元测试
-npm run test:e2e    # 运行端到端测试（如配置了）
-```
 
-## 构建与部署
-- 生产构建：`npm run build`
-- Docker（如使用）：
-```bash
-docker build -t cpsl:latest .
-docker run -d -p 3000:3000 --env-file .env cpsl:latest
-```
-- CI/CD：在 `.github/workflows/` 或其他平台配置自动化流程
-
-## 常见问题
-- 安装缓慢或失败：尝试切换镜像源或使用 `pnpm`
-- 端口被占用：修改 `.env` 中 `APP_PORT`
-- 构建报错：请确认 Node 版本与依赖锁定
-
-## 贡献指南
-欢迎通过 Issue/PR 参与贡献：
-- 提交前请确保通过 `lint` 与 `test`
-- PR 请附带变更说明与截图（如 UI 变更）
-
-## 版本规范
-- 语义化版本：MAJOR.MINOR.PATCH（破坏性/特性/修复）
-- 变更日志：建议使用 `CHANGELOG.md` 记录
-
-## 许可证
-本项目采用 MIT 许可证，详见 `LICENSE`（可根据实际情况更改）。
