@@ -1,0 +1,600 @@
+Epoch:0 Loss:3.27
+Epoch:0 Loss:3.25
+Epoch:1 Loss:2.82
+Epoch:1 Loss:2.82
+Epoch:2 Loss:2.61
+Epoch:2 Loss:2.59
+Epoch:3 Loss:2.46
+Epoch:3 Loss:2.45
+Epoch:4 Loss:2.36
+Epoch:4 Loss:2.35
+Epoch:5 Loss:2.29
+Epoch:5 Loss:2.28
+Epoch:6 Loss:2.23
+Epoch:6 Loss:2.23
+Epoch:7 Loss:2.19
+Epoch:7 Loss:2.19
+Epoch:8 Loss:2.15
+Epoch:8 Loss:2.15
+Epoch:9 Loss:2.12
+Epoch:9 Loss:2.11
+Epoch:10 Loss:2.09
+Epoch:10 Loss:2.08
+Epoch:11 Loss:2.06
+Epoch:11 Loss:2.06
+Epoch:12 Loss:2.04
+Epoch:12 Loss:2.03
+Epoch:13 Loss:2.02
+Epoch:13 Loss:2.01
+Epoch:14 Loss:2.00
+Epoch:14 Loss:1.99
+Epoch:15 Loss:1.98
+Epoch:15 Loss:1.98
+Epoch:16 Loss:1.97
+Epoch:16 Loss:1.96
+Epoch:17 Loss:1.95
+Epoch:17 Loss:1.95
+Epoch:18 Loss:1.94
+Epoch:18 Loss:1.93
+Epoch:19 Loss:1.92
+Epoch:19 Loss:1.93
+Epoch:20 Loss:1.91
+Epoch:20 Loss:1.91
+Epoch:21 Loss:1.90
+Epoch:21 Loss:1.90
+Epoch:22 Loss:1.89
+Epoch:22 Loss:1.88
+Epoch:23 Loss:1.88
+Epoch:23 Loss:1.88
+Epoch:24 Loss:1.87
+Epoch:24 Loss:1.87
+Epoch:25 Loss:1.86
+Epoch:25 Loss:1.86
+Epoch:26 Loss:1.86
+Epoch:26 Loss:1.85
+Epoch:27 Loss:1.85
+Epoch:27 Loss:1.85
+Epoch:28 Loss:1.84
+Epoch:28 Loss:1.84
+Epoch:29 Loss:1.83
+Epoch:29 Loss:1.83
+Epoch:30 Lce:0.46 Lu:0.00 penalty:0.00 Lfix:0.42 Lls:0.28 Lsim:0.00
+Epoch:30 Lce:0.45 Lu:0.00 penalty:0.00 Lfix:0.41 Lls:0.28 Lsim:0.00
+Epoch:31 Lce:0.39 Lu:0.00 penalty:0.00 Lfix:0.35 Lls:0.26 Lsim:0.00
+Epoch:31 Lce:0.40 Lu:0.00 penalty:0.00 Lfix:0.35 Lls:0.26 Lsim:0.00
+Epoch:32 Lce:0.37 Lu:0.00 penalty:0.00 Lfix:0.34 Lls:0.24 Lsim:0.00
+Epoch:32 Lce:0.37 Lu:0.00 penalty:0.00 Lfix:0.34 Lls:0.24 Lsim:0.00
+Epoch:33 Lce:0.36 Lu:0.00 penalty:0.00 Lfix:0.33 Lls:0.23 Lsim:0.00
+Epoch:33 Lce:0.36 Lu:0.00 penalty:0.00 Lfix:0.33 Lls:0.24 Lsim:0.00
+Epoch:34 Lce:0.38 Lu:0.00 penalty:0.00 Lfix:0.34 Lls:0.24 Lsim:0.00
+Epoch:34 Lce:0.36 Lu:0.00 penalty:0.00 Lfix:0.32 Lls:0.23 Lsim:0.00
+Epoch:35 Lce:0.36 Lu:0.00 penalty:0.00 Lfix:0.31 Lls:0.23 Lsim:0.00
+Epoch:35 Lce:0.36 Lu:0.00 penalty:0.00 Lfix:0.32 Lls:0.23 Lsim:0.00
+Epoch:36 Lce:0.35 Lu:0.00 penalty:0.00 Lfix:0.32 Lls:0.22 Lsim:0.00
+Epoch:36 Lce:0.36 Lu:0.00 penalty:0.00 Lfix:0.31 Lls:0.22 Lsim:0.00
+Epoch:37 Lce:0.36 Lu:0.00 penalty:0.00 Lfix:0.30 Lls:0.22 Lsim:0.00
+Epoch:37 Lce:0.36 Lu:0.00 penalty:0.00 Lfix:0.32 Lls:0.22 Lsim:0.00
+Epoch:38 Lce:0.35 Lu:0.00 penalty:0.00 Lfix:0.30 Lls:0.22 Lsim:0.00
+Epoch:38 Lce:0.37 Lu:0.00 penalty:0.00 Lfix:0.30 Lls:0.22 Lsim:0.00
+Epoch:39 Lce:0.35 Lu:0.00 penalty:0.00 Lfix:0.30 Lls:0.21 Lsim:0.00
+Epoch:39 Lce:0.38 Lu:0.00 penalty:0.00 Lfix:0.33 Lls:0.23 Lsim:0.00
+Epoch:40 Lce:0.35 Lu:0.00 penalty:0.00 Lfix:0.29 Lls:0.20 Lsim:0.00
+Epoch:40 Lce:0.35 Lu:0.00 penalty:0.00 Lfix:0.29 Lls:0.22 Lsim:0.00
+Epoch:41 Lce:0.35 Lu:0.00 penalty:0.00 Lfix:0.29 Lls:0.22 Lsim:0.00
+Epoch:41 Lce:0.35 Lu:0.00 penalty:0.00 Lfix:0.28 Lls:0.21 Lsim:0.00
+Epoch:42 Lce:0.35 Lu:0.00 penalty:0.00 Lfix:0.29 Lls:0.21 Lsim:0.00
+Epoch:42 Lce:0.35 Lu:0.00 penalty:0.00 Lfix:0.28 Lls:0.21 Lsim:0.00
+Epoch:43 Lce:0.34 Lu:0.00 penalty:0.00 Lfix:0.29 Lls:0.21 Lsim:0.00
+Epoch:43 Lce:0.34 Lu:0.00 penalty:0.00 Lfix:0.29 Lls:0.20 Lsim:0.00
+Epoch:44 Lce:0.34 Lu:0.00 penalty:0.00 Lfix:0.28 Lls:0.21 Lsim:0.00
+Epoch:44 Lce:0.36 Lu:0.00 penalty:0.00 Lfix:0.30 Lls:0.21 Lsim:0.00
+Epoch:45 Lce:0.34 Lu:0.00 penalty:0.00 Lfix:0.29 Lls:0.21 Lsim:0.00
+Epoch:45 Lce:0.35 Lu:0.00 penalty:0.00 Lfix:0.28 Lls:0.22 Lsim:0.00
+Epoch:46 Lce:0.34 Lu:0.00 penalty:0.00 Lfix:0.28 Lls:0.20 Lsim:0.00
+Epoch:46 Lce:0.34 Lu:0.00 penalty:0.00 Lfix:0.28 Lls:0.21 Lsim:0.00
+Epoch:47 Lce:0.34 Lu:0.00 penalty:0.00 Lfix:0.28 Lls:0.21 Lsim:0.00
+Epoch:47 Lce:0.34 Lu:0.00 penalty:0.00 Lfix:0.26 Lls:0.20 Lsim:0.00
+Epoch:48 Lce:0.34 Lu:0.00 penalty:0.00 Lfix:0.26 Lls:0.20 Lsim:0.00
+Epoch:48 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.27 Lls:0.21 Lsim:0.00
+Epoch:49 Lce:0.34 Lu:0.00 penalty:0.00 Lfix:0.26 Lls:0.21 Lsim:0.00
+Epoch:49 Lce:0.34 Lu:0.00 penalty:0.00 Lfix:0.26 Lls:0.21 Lsim:0.00
+Epoch:50 Lce:0.39 Lu:0.00 penalty:0.00 Lfix:0.32 Lls:0.23 Lsim:0.00
+Epoch:50 Lce:0.35 Lu:0.00 penalty:0.00 Lfix:0.25 Lls:0.19 Lsim:0.00
+Epoch:51 Lce:0.34 Lu:0.00 penalty:0.00 Lfix:0.26 Lls:0.21 Lsim:0.00
+Epoch:51 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.26 Lls:0.20 Lsim:0.00
+Epoch:52 Lce:0.34 Lu:0.00 penalty:0.00 Lfix:0.26 Lls:0.21 Lsim:0.00
+Epoch:52 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.25 Lls:0.20 Lsim:0.00
+Epoch:53 Lce:0.34 Lu:0.00 penalty:0.00 Lfix:0.25 Lls:0.20 Lsim:0.00
+Epoch:53 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.26 Lls:0.20 Lsim:0.00
+Epoch:54 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.25 Lls:0.20 Lsim:0.00
+Epoch:54 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.25 Lls:0.21 Lsim:0.00
+Epoch:55 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.25 Lls:0.20 Lsim:0.00
+Epoch:55 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.25 Lls:0.20 Lsim:0.00
+Epoch:56 Lce:0.34 Lu:0.00 penalty:0.00 Lfix:0.25 Lls:0.21 Lsim:0.00
+Epoch:56 Lce:0.40 Lu:0.00 penalty:0.00 Lfix:0.34 Lls:0.23 Lsim:0.00
+Epoch:57 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.26 Lls:0.19 Lsim:0.00
+Epoch:57 Lce:0.35 Lu:0.00 penalty:0.00 Lfix:0.25 Lls:0.21 Lsim:0.00
+Epoch:58 Lce:0.37 Lu:0.00 penalty:0.00 Lfix:0.30 Lls:0.21 Lsim:0.00
+Epoch:58 Lce:0.34 Lu:0.00 penalty:0.00 Lfix:0.24 Lls:0.20 Lsim:0.00
+Epoch:59 Lce:0.36 Lu:0.00 penalty:0.00 Lfix:0.27 Lls:0.22 Lsim:0.00
+Epoch:59 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.26 Lls:0.19 Lsim:0.00
+Epoch:60 Lce:0.34 Lu:0.00 penalty:0.00 Lfix:0.24 Lls:0.20 Lsim:0.00
+Epoch:60 Lce:0.34 Lu:0.00 penalty:0.00 Lfix:0.26 Lls:0.20 Lsim:0.00
+Epoch:61 Lce:0.34 Lu:0.00 penalty:0.00 Lfix:0.25 Lls:0.20 Lsim:0.00
+Epoch:61 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.24 Lls:0.20 Lsim:0.00
+Epoch:62 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.24 Lls:0.19 Lsim:0.00
+Epoch:62 Lce:0.34 Lu:0.00 penalty:0.00 Lfix:0.23 Lls:0.20 Lsim:0.00
+Epoch:63 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.23 Lls:0.20 Lsim:0.00
+Epoch:63 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.23 Lls:0.20 Lsim:0.00
+Epoch:64 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.23 Lls:0.19 Lsim:0.00
+Epoch:64 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.24 Lls:0.20 Lsim:0.00
+Epoch:65 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.23 Lls:0.20 Lsim:0.00
+Epoch:65 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.24 Lls:0.20 Lsim:0.00
+Epoch:66 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.19 Lsim:0.00
+Epoch:66 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.23 Lls:0.19 Lsim:0.00
+Epoch:67 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.24 Lls:0.19 Lsim:0.00
+Epoch:67 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.23 Lls:0.20 Lsim:0.00
+Epoch:68 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.18 Lsim:0.00
+Epoch:68 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.23 Lls:0.19 Lsim:0.00
+Epoch:69 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.19 Lsim:0.00
+Epoch:69 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.24 Lls:0.20 Lsim:0.00
+Epoch:70 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.23 Lls:0.19 Lsim:0.00
+Epoch:70 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.20 Lsim:0.00
+Epoch:71 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.23 Lls:0.19 Lsim:0.00
+Epoch:71 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.19 Lsim:0.00
+Epoch:72 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.23 Lls:0.19 Lsim:0.00
+Epoch:72 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.23 Lls:0.18 Lsim:0.00
+Epoch:73 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.20 Lsim:0.00
+Epoch:73 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.19 Lsim:0.00
+Epoch:74 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.19 Lsim:0.00
+Epoch:74 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.19 Lsim:0.00
+Epoch:75 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.17 Lsim:0.00
+Epoch:75 Lce:0.35 Lu:0.00 penalty:0.00 Lfix:0.25 Lls:0.21 Lsim:0.00
+Epoch:76 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.23 Lls:0.19 Lsim:0.00
+Epoch:76 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.24 Lls:0.21 Lsim:0.00
+Epoch:77 Lce:0.36 Lu:0.00 penalty:0.00 Lfix:0.28 Lls:0.21 Lsim:0.00
+Epoch:77 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.19 Lsim:0.00
+Epoch:78 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.24 Lls:0.20 Lsim:0.00
+Epoch:78 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.23 Lls:0.18 Lsim:0.00
+Epoch:79 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.20 Lsim:0.00
+Epoch:79 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.20 Lsim:0.00
+Epoch:80 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.19 Lsim:0.00
+Epoch:80 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.20 Lsim:0.00
+Epoch:81 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.19 Lsim:0.00
+Epoch:81 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.19 Lsim:0.00
+Epoch:82 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.19 Lsim:0.00
+Epoch:82 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.20 Lls:0.18 Lsim:0.00
+Epoch:83 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.19 Lsim:0.00
+Epoch:83 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.20 Lls:0.17 Lsim:0.00
+Epoch:84 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.18 Lsim:0.00
+Epoch:84 Lce:0.35 Lu:0.00 penalty:0.00 Lfix:0.27 Lls:0.22 Lsim:0.00
+Epoch:85 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.18 Lsim:0.00
+Epoch:85 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.19 Lsim:0.00
+Epoch:86 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.20 Lls:0.18 Lsim:0.00
+Epoch:86 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.19 Lsim:0.00
+Epoch:87 Lce:0.31 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.20 Lsim:0.00
+Epoch:87 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.19 Lsim:0.00
+Epoch:88 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.19 Lsim:0.00
+Epoch:88 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.19 Lsim:0.00
+Epoch:89 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.19 Lls:0.17 Lsim:0.00
+Epoch:89 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.21 Lsim:0.00
+Epoch:90 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.19 Lsim:0.00
+Epoch:90 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.19 Lsim:0.00
+Epoch:91 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.19 Lsim:0.00
+Epoch:91 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.18 Lsim:0.00
+Epoch:92 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.19 Lsim:0.00
+Epoch:92 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.17 Lsim:0.00
+Epoch:93 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.20 Lsim:0.00
+Epoch:93 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.20 Lsim:0.00
+Epoch:94 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.20 Lls:0.18 Lsim:0.00
+Epoch:94 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.20 Lls:0.18 Lsim:0.00
+Epoch:95 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.19 Lsim:0.00
+Epoch:95 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.20 Lls:0.19 Lsim:0.00
+Epoch:96 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.20 Lls:0.18 Lsim:0.00
+Epoch:96 Lce:0.31 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.19 Lsim:0.00
+Epoch:97 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.19 Lls:0.19 Lsim:0.00
+Epoch:97 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.20 Lls:0.20 Lsim:0.00
+Epoch:98 Lce:0.34 Lu:0.00 penalty:0.00 Lfix:0.23 Lls:0.19 Lsim:0.00
+Epoch:98 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.19 Lsim:0.00
+Epoch:99 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.19 Lsim:0.00
+Epoch:99 Lce:0.34 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.20 Lsim:0.00
+Epoch:100 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.19 Lsim:0.00
+Epoch:100 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.20 Lls:0.17 Lsim:0.00
+Epoch:101 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.20 Lls:0.18 Lsim:0.00
+Epoch:101 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.19 Lls:0.18 Lsim:0.00
+Epoch:102 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.18 Lsim:0.00
+Epoch:102 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.19 Lsim:0.00
+Epoch:103 Lce:0.31 Lu:0.00 penalty:0.00 Lfix:0.20 Lls:0.15 Lsim:0.00
+Epoch:103 Lce:0.41 Lu:0.00 penalty:0.00 Lfix:0.31 Lls:0.22 Lsim:0.00
+Epoch:104 Lce:0.34 Lu:0.00 penalty:0.00 Lfix:0.23 Lls:0.20 Lsim:0.00
+Epoch:104 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.24 Lls:0.22 Lsim:0.00
+Epoch:105 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.20 Lls:0.18 Lsim:0.00
+Epoch:105 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.19 Lsim:0.00
+Epoch:106 Lce:0.31 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.18 Lsim:0.00
+Epoch:106 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.20 Lls:0.19 Lsim:0.00
+Epoch:107 Lce:0.31 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.19 Lsim:0.00
+Epoch:107 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.19 Lsim:0.00
+Epoch:108 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.20 Lls:0.18 Lsim:0.00
+Epoch:108 Lce:0.31 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.20 Lsim:0.00
+Epoch:109 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.20 Lls:0.19 Lsim:0.00
+Epoch:109 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.20 Lsim:0.00
+Epoch:110 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.18 Lsim:0.00
+Epoch:110 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.18 Lls:0.17 Lsim:0.00
+Epoch:111 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.19 Lls:0.17 Lsim:0.00
+Epoch:111 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.19 Lsim:0.00
+Epoch:112 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.19 Lls:0.18 Lsim:0.00
+Epoch:112 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.19 Lsim:0.00
+Epoch:113 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.19 Lsim:0.00
+Epoch:113 Lce:0.31 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.20 Lsim:0.00
+Epoch:114 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.19 Lls:0.17 Lsim:0.00
+Epoch:114 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.20 Lls:0.18 Lsim:0.00
+Epoch:115 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.20 Lsim:0.00
+Epoch:115 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.19 Lsim:0.00
+Epoch:116 Lce:0.31 Lu:0.00 penalty:0.00 Lfix:0.20 Lls:0.19 Lsim:0.00
+Epoch:116 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.19 Lls:0.18 Lsim:0.00
+Epoch:117 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.25 Lls:0.20 Lsim:0.00
+Epoch:117 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.19 Lls:0.17 Lsim:0.00
+Epoch:118 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.20 Lls:0.19 Lsim:0.00
+Epoch:118 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.20 Lsim:0.00
+Epoch:119 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.20 Lls:0.18 Lsim:0.00
+Epoch:119 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.20 Lls:0.18 Lsim:0.00
+Epoch:120 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.19 Lls:0.18 Lsim:0.00
+Epoch:120 Lce:0.31 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.19 Lsim:0.00
+Epoch:121 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.19 Lsim:0.00
+Epoch:121 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.19 Lls:0.19 Lsim:0.00
+Epoch:122 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.17 Lsim:0.00
+Epoch:122 Lce:0.44 Lu:0.00 penalty:0.00 Lfix:0.35 Lls:0.23 Lsim:0.00
+Epoch:123 Lce:0.31 Lu:0.00 penalty:0.00 Lfix:0.20 Lls:0.17 Lsim:0.00
+Epoch:123 Lce:0.35 Lu:0.00 penalty:0.00 Lfix:0.23 Lls:0.21 Lsim:0.00
+Epoch:124 Lce:0.31 Lu:0.00 penalty:0.00 Lfix:0.21 Lls:0.17 Lsim:0.00
+Epoch:124 Lce:0.38 Lu:0.00 penalty:0.00 Lfix:0.26 Lls:0.21 Lsim:0.00
+Epoch:125 Lce:0.31 Lu:0.00 penalty:0.00 Lfix:0.19 Lls:0.18 Lsim:0.00
+Epoch:125 Lce:0.34 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.20 Lsim:0.00
+Epoch:126 Lce:0.31 Lu:0.00 penalty:0.00 Lfix:0.20 Lls:0.18 Lsim:0.00
+Epoch:126 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.20 Lls:0.19 Lsim:0.00
+Epoch:127 Lce:0.39 Lu:0.00 penalty:0.00 Lfix:0.32 Lls:0.24 Lsim:0.00
+Epoch:127 Lce:0.33 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.19 Lsim:0.00
+Epoch:128 Lce:0.34 Lu:0.00 penalty:0.00 Lfix:0.23 Lls:0.20 Lsim:0.00
+Epoch:128 Lce:0.30 Lu:0.00 penalty:0.00 Lfix:0.22 Lls:0.19 Lsim:0.00
+Epoch:129 Lce:0.35 Lu:0.00 penalty:0.00 Lfix:0.23 Lls:0.20 Lsim:0.00
+Epoch:129 Lce:0.32 Lu:0.00 penalty:0.00 Lfix:0.20 Lls:0.18 Lsim:0.00
+Epoch:130 Lce:1.55 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.40
+Epoch:130 Lce:1.55 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.42
+Epoch:131 Lce:1.52 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.35
+Epoch:131 Lce:1.50 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.35
+Epoch:132 Lce:1.47 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.32
+Epoch:132 Lce:1.48 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.33
+Epoch:133 Lce:1.48 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.31
+Epoch:133 Lce:1.45 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.32
+Epoch:134 Lce:1.46 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.31
+Epoch:134 Lce:1.45 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.31
+Epoch:135 Lce:1.44 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.30
+Epoch:135 Lce:1.46 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.30
+Epoch:136 Lce:1.45 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.30
+Epoch:136 Lce:1.43 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.30
+Epoch:137 Lce:1.43 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.29
+Epoch:137 Lce:1.42 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.30
+Epoch:138 Lce:1.42 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.30
+Epoch:138 Lce:1.42 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.30
+Epoch:139 Lce:1.42 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.30
+Epoch:139 Lce:1.40 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.30
+Epoch:140 Lce:1.41 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.30
+Epoch:140 Lce:1.42 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.29
+Epoch:141 Lce:1.38 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.29
+Epoch:141 Lce:1.39 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.29
+Epoch:142 Lce:1.38 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.29
+Epoch:142 Lce:1.40 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.29
+Epoch:143 Lce:1.39 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.29
+Epoch:143 Lce:1.40 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.30
+Epoch:144 Lce:1.37 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.29
+Epoch:144 Lce:1.38 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.30
+Epoch:145 Lce:1.38 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.29
+Epoch:145 Lce:1.39 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.29
+Epoch:146 Lce:1.35 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.30
+Epoch:146 Lce:1.38 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.30
+Epoch:147 Lce:1.36 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.29
+Epoch:147 Lce:1.38 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.30
+Epoch:148 Lce:1.37 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.30
+Epoch:148 Lce:1.36 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.29
+Epoch:149 Lce:1.36 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.30
+Epoch:149 Lce:1.36 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.30
+Epoch:150 Lce:1.32 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:150 Lce:1.31 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:151 Lce:1.27 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:151 Lce:1.29 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:152 Lce:1.28 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:152 Lce:1.27 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.26
+Epoch:153 Lce:1.27 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:153 Lce:1.27 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:154 Lce:1.25 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:154 Lce:1.26 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:155 Lce:1.27 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:155 Lce:1.28 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:156 Lce:1.25 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:156 Lce:1.25 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:157 Lce:1.26 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:157 Lce:1.23 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.26
+Epoch:158 Lce:1.25 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:158 Lce:1.23 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:159 Lce:1.24 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:159 Lce:1.25 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.26
+Epoch:160 Lce:1.24 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:160 Lce:1.26 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:161 Lce:1.25 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:161 Lce:1.23 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:162 Lce:1.26 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:162 Lce:1.23 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:163 Lce:1.24 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:163 Lce:1.24 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:164 Lce:1.24 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:164 Lce:1.21 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:165 Lce:1.22 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:165 Lce:1.24 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:166 Lce:1.24 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:166 Lce:1.24 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:167 Lce:1.24 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:167 Lce:1.24 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:168 Lce:1.24 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:168 Lce:1.24 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:169 Lce:1.23 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:169 Lce:1.24 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:170 Lce:1.22 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:170 Lce:1.24 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:171 Lce:1.23 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:171 Lce:1.21 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:172 Lce:1.23 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:172 Lce:1.22 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:173 Lce:1.22 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:173 Lce:1.22 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:174 Lce:1.21 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:174 Lce:1.22 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:175 Lce:1.22 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:175 Lce:1.22 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:176 Lce:1.22 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:176 Lce:1.21 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:177 Lce:1.21 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:177 Lce:1.21 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:178 Lce:1.22 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:178 Lce:1.22 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:179 Lce:1.20 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:179 Lce:1.22 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:180 Lce:1.22 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:180 Lce:1.22 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:181 Lce:1.22 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:181 Lce:1.21 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:182 Lce:1.22 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:182 Lce:1.22 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:183 Lce:1.21 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:183 Lce:1.21 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:184 Lce:1.22 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:184 Lce:1.21 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:185 Lce:1.21 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:185 Lce:1.21 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:186 Lce:1.21 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:186 Lce:1.20 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:187 Lce:1.21 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:187 Lce:1.20 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:188 Lce:1.21 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:188 Lce:1.20 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:189 Lce:1.21 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:189 Lce:1.20 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:190 Lce:1.20 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:190 Lce:1.19 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:191 Lce:1.21 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:191 Lce:1.19 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:192 Lce:1.19 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:192 Lce:1.21 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:193 Lce:1.19 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:193 Lce:1.20 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:194 Lce:1.21 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:194 Lce:1.19 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:195 Lce:1.20 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:195 Lce:1.20 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:196 Lce:1.20 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:196 Lce:1.19 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:197 Lce:1.20 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:197 Lce:1.19 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:198 Lce:1.20 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:198 Lce:1.18 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:199 Lce:1.20 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:199 Lce:1.18 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:200 Lce:1.20 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:200 Lce:1.20 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:201 Lce:1.19 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:201 Lce:1.19 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:202 Lce:1.18 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:202 Lce:1.18 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:203 Lce:1.18 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:203 Lce:1.20 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:204 Lce:1.19 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:204 Lce:1.19 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:205 Lce:1.19 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:205 Lce:1.20 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:206 Lce:1.19 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:206 Lce:1.18 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:207 Lce:1.19 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:207 Lce:1.18 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:208 Lce:1.18 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:208 Lce:1.20 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:209 Lce:1.18 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:209 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:210 Lce:1.19 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:210 Lce:1.18 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:211 Lce:1.19 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:211 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:212 Lce:1.19 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:212 Lce:1.19 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:213 Lce:1.19 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:213 Lce:1.18 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:214 Lce:1.18 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:214 Lce:1.18 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:215 Lce:1.18 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:215 Lce:1.18 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:216 Lce:1.19 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:216 Lce:1.18 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:217 Lce:1.18 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:217 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:218 Lce:1.19 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:218 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:219 Lce:1.19 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:219 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:220 Lce:1.18 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:220 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:221 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:221 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:222 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:222 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:223 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:223 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:224 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:224 Lce:1.18 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:225 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:225 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:226 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:226 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:227 Lce:1.18 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:227 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:228 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:228 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:229 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:229 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:230 Lce:1.18 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:230 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:231 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:231 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:232 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:232 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:233 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:233 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:234 Lce:1.19 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:234 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:235 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:235 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:236 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:236 Lce:1.18 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:237 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:237 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:238 Lce:1.18 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:238 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:239 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:239 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:240 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:240 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:241 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:241 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:242 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:242 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:243 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:243 Lce:1.18 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:244 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:244 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:245 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:245 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:246 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:246 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:247 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:247 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:248 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:248 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:249 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:249 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:250 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:250 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:251 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:251 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:252 Lce:1.14 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:252 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:253 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:253 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:254 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:254 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:255 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:255 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:256 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:256 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:257 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:257 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:258 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:258 Lce:1.14 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:259 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:259 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:260 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:260 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:261 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:261 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:262 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:262 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:263 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:263 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:264 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:264 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:265 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:265 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:266 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:266 Lce:1.14 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:267 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:267 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:268 Lce:1.14 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:268 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:269 Lce:1.14 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:269 Lce:1.13 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:270 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:270 Lce:1.14 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:271 Lce:1.13 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:271 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:272 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:272 Lce:1.14 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:273 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:273 Lce:1.17 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:274 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:274 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:275 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:275 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:276 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:276 Lce:1.14 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:277 Lce:1.14 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:277 Lce:1.14 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:278 Lce:1.13 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:278 Lce:1.14 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:279 Lce:1.14 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:279 Lce:1.13 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:280 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:280 Lce:1.14 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:281 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:281 Lce:1.14 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:282 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:282 Lce:1.12 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:283 Lce:1.14 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:283 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.28
+Epoch:284 Lce:1.13 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:284 Lce:1.13 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:285 Lce:1.14 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:285 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:286 Lce:1.13 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:286 Lce:1.13 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:287 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:287 Lce:1.14 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:288 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:288 Lce:1.13 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:289 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:289 Lce:1.12 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:290 Lce:1.16 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:290 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:291 Lce:1.13 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:291 Lce:1.14 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:292 Lce:1.13 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:292 Lce:1.14 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:293 Lce:1.14 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:293 Lce:1.13 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:294 Lce:1.14 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:294 Lce:1.13 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:295 Lce:1.13 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:295 Lce:1.15 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:296 Lce:1.13 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:296 Lce:1.12 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:297 Lce:1.14 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:297 Lce:1.14 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:298 Lce:1.14 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:298 Lce:1.12 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:299 Lce:1.14 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
+Epoch:299 Lce:1.13 Lu:0.01 penalty:0.00 Lfix:0.00 Lls:0.00 Lsim:3.27
