@@ -5,7 +5,7 @@ import numpy as np
 from PIL import Image
 import json
 import torch
-from autoaugmentation import CIFAR10Policy, ImageNetPolicy
+from autoaugmentation_clothing1m import CIFAR10Policy, ImageNetPolicy
 import collections
 
 

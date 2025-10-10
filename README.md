@@ -27,19 +27,19 @@ Here is an example:
 cd train
 
 #Cifar10
-python trian_cifar10.py
+python train_cifar10.py
 
 #Cifar100
-python trian_cifar100.py
+python train_cifar100.py
 
 #Tiny-ImageNet
-python trian_tinyImageNet.py
+python train_tinyImageNet.py
 
 #Animal10N
-python trian_animal10n.py
+python train_animal10n.py
 
 #Clothing1M
-python trian_clothing1m.py
+python train_clothing1m.py
 
 ```
 

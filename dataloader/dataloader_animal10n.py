@@ -7,7 +7,7 @@ import json
 import os
 import torch
 from torchnet.meter import AUCMeter
-from autoaugmentation import CIFAR10Policy
+from autoaugmentation_animal10n import CIFAR10Policy
 import collections
 
 def unpickle(file):
